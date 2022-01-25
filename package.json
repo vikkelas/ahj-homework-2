@@ -46,7 +46,6 @@
     "core-js": "^3.6.5",
     "css-minimizer-webpack-plugin": "^3.4.1",
     "jest": "^27.4.7",
-    "optimize-css-assets-webpack-plugin": "^5.0.4",
     "sockjs-client": "^1.5.2"
   }
 }
