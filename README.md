@@ -1,6 +1,3 @@
-# Webpack5
-https://ci.appveyor.com/api/projects/status/ea3ifeq4ss4ndxdr/branch/main?svg=true
+[![Build status](https://ci.appveyor.com/api/projects/status/vg6b105mv2eotdh7?svg=true)](https://ci.appveyor.com/project/lap-Dmitry78317/ahj-dom)
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
-
-[Migration Guide](https://webpack.js.org/migrate/5/)
+https://lap-dmitry.github.io/AHJ-dom/
