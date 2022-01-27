@@ -2,7 +2,7 @@
 let index = null;
 
 function randomPosition() {
-  const arrCell = [...document.querySelectorAll('.box-cell')];
+  const arrCell = document.querySelectorAll('.box-cell');
   const activeCell = Math.floor(Math.random() * arrCell.length);
   if (index === null) {
     index = Math.floor(Math.random() * arrCell.length);
