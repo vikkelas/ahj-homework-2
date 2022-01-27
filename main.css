@@ -1,0 +1,29 @@
+body {
+  color: #999;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 650px;
+  height: 600px;
+  background-color: crimson;
+}
+
+.box-cell {
+  margin: 5px;
+  border: 1px solid black;
+  display: block;
+  width: 150px;
+  background-color: cadetblue;
+}
+
+.box__cell-active {
+  max-width: 100%;
+  background-image: url(2dbd01ce16c0fa83cb67e20c73dedb66.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
